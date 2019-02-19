@@ -5,8 +5,7 @@ Aplicação hosteada no Heroku (https://falafreudbackenddevelopertest.herokuapp.
 ## Documentação
 ### Criar novo usuário
 
-url - https://falafreudbackenddevelopertest.herokuapp.com/api/users
-
+url - https://falafreudbackenddevelopertest.herokuapp.com/api/users  
 método - POST
 
 ### Recuperar todos os usuários
